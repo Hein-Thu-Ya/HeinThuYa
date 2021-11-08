@@ -9,7 +9,7 @@ const Welcome = () => {
     return (
         <div className="container">
             <div className="d-flex justify-content-center align-items-center" style={{height: '100vh'}}>
-                <div className="col-10">
+                <div className="col-lg-10">
                     {
                         loading && <h1>Loading...</h1>
                     }
