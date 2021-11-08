@@ -1,0 +1,20 @@
+.navbar-brand {
+    color: var(--secondary-color) !important;
+    font-size: 30px !important;
+    font-weight: bold !important;
+}
+
+a.nav-link{
+    color: var(--dark-color) !important;
+    font-size: 18px !important;
+    margin-left: 12px !important;
+    margin-top: 5px !important;
+}
+
+a.nav-link:hover {
+    text-decoration: underline;
+}
+
+.navbar-toggler{
+    border: none !important;
+}

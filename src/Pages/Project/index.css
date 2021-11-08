@@ -1,0 +1,13 @@
+.project-img {
+    width: 308px;
+    height: 205px;
+}
+
+.projects .card-title a {
+    all: unset;
+}
+
+.project-link, .project-link:hover{
+    all: unset;
+    cursor: pointer;
+}

@@ -1,0 +1,26 @@
+h1.name-text {
+    font-size: 50px;
+    font-weight: bold;
+    font-style: italic;
+    color: var(--secondary-color);
+    margin-bottom: 20px;
+}
+
+.my-image {
+    width: 200px; 
+    border-radius: 100%; 
+    border: 9px solid var(--primary-color);
+}
+
+.links a {
+    text-decoration: underline;
+    font-size: 19px;
+    font-weight: bold;
+    color: var(--secondary-color);
+    margin-right: 20px;
+}
+
+.links a:hover {
+    text-decoration: underline;
+    color: var(--hover-color);
+}
